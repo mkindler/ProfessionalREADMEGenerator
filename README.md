@@ -1,9 +1,9 @@
-# Test
-  ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+# README Generator
+  ![GitHub License](https://img.shields.io/badge/license-Other-blue.svg)
 
 ## Description
 
-Test description.
+Creation of a README file for projects.
 
 ## Table of Contents
 
@@ -23,29 +23,29 @@ Test description.
 
 To install necessary dependencies, run the following command:
 
-Use npm i.
+npm i
 
 ## Usage Information
 
-You should read the README.
+Don't break it.
 
 ## License
     
-    This application is covered by the MIT license.
+    This application is covered by the Other license.
 
 ## Contributing
 
-Please clone the repo before contributing.
+Clone it.
 
 ## Testing
 
 To run tests, run the following command:
 
-Use npm test.
+npm test
 
 ## Questions?
 
-If you have any questions about this repository, please open an issue or contact me directly at test@gmail.com.
+If you have any questions about this repository, please open an issue or contact me directly at teset@gmail.com.
 
-Looking for more of my work?  Please visit [mkindler](https://github.com/mkindler/).
+Looking for more of my work?  Please visit [mkidnler](https://github.com/mkidnler/).
 
