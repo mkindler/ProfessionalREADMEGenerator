@@ -1,9 +1,9 @@
-# README Generator
-  ![GitHub License](https://img.shields.io/badge/license-Other-blue.svg)
+# test
+  Test
 
 ## Description
 
-Creation of a README file for projects.
+test
 
 ## Table of Contents
 
@@ -23,11 +23,11 @@ Creation of a README file for projects.
 
 To install necessary dependencies, run the following command:
 
-npm i
+test
 
 ## Usage Information
 
-Don't break it.
+test
 
 ## License
     
@@ -35,17 +35,17 @@ Don't break it.
 
 ## Contributing
 
-Clone it.
+asdf
 
 ## Testing
 
 To run tests, run the following command:
 
-npm test
+asdf
 
 ## Questions?
 
-If you have any questions about this repository, please open an issue or contact me directly at teset@gmail.com.
+If you have any questions about this repository, please open an issue or contact me directly at test.
 
-Looking for more of my work?  Please visit [mkidnler](https://github.com/mkidnler/).
+Looking for more of my work?  Please visit [mkindler](https://github.com/mkindler/).
 

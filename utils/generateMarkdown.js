@@ -1,20 +1,20 @@
 // function to create appropriate license badge.  If license is listed as "Other" or "None", a message will be displayed stating that license information is not available.
 function createLicenseBadge(license) {
-  if (license !== "Other" || license !== "None") {
+  if (license !== "Other") {
     return `![GitHub License](https://img.shields.io/badge/license-${license}-blue.svg)`
   }
-  return "Licensing information for this application is not available."
-}
+    return 'Licensing information for this application is not available.'
+  }
 
 // function to create a section for information about licensing.  If license is listed as "Other" or "None", a message will be displayed in the section stating that license information is not available.
 function createLicenseSection(license) {
-  if (license !== "Other" || license !== "None") {
+  if (license !== "Other") {
     return (`## License
     
     This application is covered by the ${license} license.`)
   }
-  return "Licensing information for this application is not available."
-}
+    return 'Licensing information for this application is not available.'
+  }
 
 // function to generate markdown for README
 function generateMarkdown(data) {
