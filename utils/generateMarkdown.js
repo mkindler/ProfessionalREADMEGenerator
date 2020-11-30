@@ -7,6 +7,14 @@ function createLicenseBadge(license) {
 }
 
 // function to create a section for information about licensing.  If license is listed as "Other" or "None", a message will be displayed in the section stating that license information is not available.
+function createLicenseSection(license) {
+  if (license !== "Other" || license !== "None") {
+    return (`## License
+    
+    This application is covered by the ${license} license.`)
+  }
+  return "Licensing information for this application is not available."
+}
 
 // function to generate markdown for README
 function generateMarkdown(data) {
@@ -41,11 +49,7 @@ ${data.installation}
 
 ${data.usage}
 
-## License
-
-![badge](https://img.shields.io/badge/license-${license}-blue.svg)
-<br />
-This application is covered by the ${data.license} license.
+${createLicenseSection(data.license)}
 
 ## Contributing
 
