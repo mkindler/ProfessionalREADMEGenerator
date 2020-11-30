@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "path": "^0.12.7",
+    "utils": "^0.3.1"
   },
   "devDependencies": {},
   "scripts": {
