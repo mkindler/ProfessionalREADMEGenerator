@@ -1,9 +1,9 @@
 # test
-  Test
+  Licensing information for this application is not available.
 
 ## Description
 
-test
+asdf
 
 ## Table of Contents
 
@@ -23,15 +23,15 @@ test
 
 To install necessary dependencies, run the following command:
 
-test
+asdf
 
 ## Usage Information
 
-test
+asdf
 
 ## License
     
-    This application is covered by the Other license.
+    Licensing information for this application is not available.
 
 ## Contributing
 
@@ -45,7 +45,6 @@ asdf
 
 ## Questions?
 
-If you have any questions about this repository, please open an issue or contact me directly at test.
+If you have any questions about this repository, please open an issue or contact me directly at asdf.
 
-Looking for more of my work?  Please visit [mkindler](https://github.com/mkindler/).
-
+Looking for more of my work?  Please visit [asdf](https://github.com/asdf/).

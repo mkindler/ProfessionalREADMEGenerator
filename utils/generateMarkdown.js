@@ -13,7 +13,9 @@ function createLicenseSection(license) {
     
     This application is covered by the ${license} license.`)
   }
-    return 'Licensing information for this application is not available.'
+    return (`## License
+    
+    Licensing information for this application is not available.`)
   }
 
 // function to generate markdown for README
