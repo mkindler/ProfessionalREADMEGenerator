@@ -29,7 +29,7 @@ ${data.description}
 
 ## Table of Contents
 
-* [Installation Instructions](#installation)
+* [Installation Instructions](#installation instructions)
 
 * [Usage Information](#usage)
 
