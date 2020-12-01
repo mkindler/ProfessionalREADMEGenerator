@@ -32,9 +32,11 @@ This project was designed using some starter code that was provided.
 
 ## Demo of Deployed Application and Example README.md File
 ![Demo of Application Using Node.js](assets/README-generator-demo.gif)
+<br />
 The full video file showing the application in full can be found [here](https://github.com/mkindler/ProfessionalREADMEGenerator/blob/main/assets/README-generator-demo.mp4)
 
 ![Demo of README.md File and Table of Contents](assets/README-file-walkthrough.gif)
+<br />
 The full video file showing the final README.md file that is created can be found [here](https://github.com/mkindler/ProfessionalREADMEGenerator/blob/main/assets/README-file-walkthrough.mp4)
 
 ## Contributing
