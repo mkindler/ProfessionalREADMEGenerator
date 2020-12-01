@@ -37,6 +37,7 @@ GIF demonstrating the application's function.  Please see the link below for a v
 <br />
 The full video file showing the application in full can be found [here](https://github.com/mkindler/ProfessionalREADMEGenerator/blob/main/assets/README-generator-demo.mp4)
 <br />
+<br />
 GIF demonstrating the README.md file that is created with clickable Table of Contents links.  Please see the link below for a video of the full demonstration.
 <br />
 ![Demo of README.md File and Table of Contents](assets/README-file-walkthrough.gif)
