@@ -31,8 +31,8 @@ Following installation, the user should run the following in their command line 
 This project was designed using some starter code that was provided.
 
 ## Demo of Deployed Application and Example README.md File
-![Demo of Application Using Node.js](assets/README-generator-demo.gif)
-![Demo of README.md File and Table of Contents](README-file-walkthrough.mp4)
+[Demo of Application Using Node.js](assets/README-generator-demo.gif)
+[Demo of README.md File and Table of Contents](assets/README-file-walkthrough.gif)
 
 ## Contributing
 
