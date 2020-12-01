@@ -29,9 +29,9 @@ ${data.description}
 
 ## Table of Contents
 
-* [Installation Instructions](#installation instructions)
+* [Installation](#installation)
 
-* [Usage Information](#usage)
+* [Usage](#usage)
 
 * [License](#license)
 
@@ -41,13 +41,13 @@ ${data.description}
 
 * [Questions?](#questions)
 
-## Installation Instructions
+## Installation
 
 To install necessary dependencies, run the following command:
 
 ${data.installation}
 
-## Usage Information
+## Usage
 
 ${data.usage}
 
